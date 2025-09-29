@@ -1,5 +1,9 @@
-# 💫 About Me:
-I'm currently working on Fivem and Flipper zero projects
+## 💫 Welcome
+I spend most of my time working on **FiveM** projects and exploring the **Flipper Zero** community.
+Most of what I do stays private, but I’ll be sharing some public projects here in the future.
+
+If you’re working on similar things, you’ll probably find something familiar here. 🚀
+
 
 
 ##
