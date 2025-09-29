@@ -16,8 +16,9 @@ If you’re working on similar things, you’ll probably find something familiar
   <img src="https://nirzak-streak-stats.vercel.app/?user=JustCxsper&theme=dark&hide_border=false" alt="GitHub Streak" />
 </p>
 
+
 <p align="center">
-  <a href="https://visitcount.itsvg.in">
-    <img src="https://visitcount.itsvg.in/api?id=JustCxsper&icon=0&color=0" alt="Profile Visits" />
-  </a>
+  <img src="https://komarev.com/ghpvc/?username=JustCxsper&label=Profile%20Views&color=0e75b6&style=flat" alt="profile views" />
 </p>
+
+
